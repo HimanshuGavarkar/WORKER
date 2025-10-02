@@ -175,3 +175,4 @@ For technical support or questions about the PPE verification system, please con
 
 **Safety First**: This system is designed to enhance worker safety in coal mining operations. Regular maintenance and calibration of detection systems are essential for optimal performance.
 # WORKER
+# WORKER
